@@ -9,10 +9,11 @@ If larger 7-segment displays are used, the appropriate mosfets or relays are nee
 
 The Nine Segments in the program.
 
-----------------------------------------------
-|  Home Score |   Innings  |  Visitor Score  | 
-|   2 digits  |   2 digits |  2 digits       |  =6
-----------------------------------------------
-|  Balls      |   Strikes  |      Outs       |
-|  one digit  |  one digit |  one digit      |  =3
-----------------------------------------------
+Home Score   2 digits
+Innings     2 digits
+Visitor Score 2 digits
+Balls 1 digit
+Strikes 1 digit
+Outs  1 digit
+
+TTL = 9 digits
