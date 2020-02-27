@@ -6,3 +6,13 @@ Some shift registers are in series and will update the score shown physically us
 
 A single shift register is needed for each 7-segment display.  
 If larger 7-segment displays are used, the appropriate mosfets or relays are needed, but can still be controlled by the shift registers.  
+
+The Nine Segments in the program.
+
+----------------------------------------------
+|  Home Score |   Innings  |  Visitor Score  | 
+|   2 digits  |   2 digits |  2 digits       |  =6
+----------------------------------------------
+|  Balls      |   Strikes  |      Outs       |
+|  one digit  |  one digit |  one digit      |  =3
+----------------------------------------------
